@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Profile",
+    "sdkVersion": "26.0.0",
+    "ios": {
+      "bundleIdentifier": "profile"
+    },
+    "android": {
+      "package": "profile"
+    }
+  }
+}

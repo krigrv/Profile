@@ -1,0 +1,21 @@
+{
+  "ProfileVC": {
+    "changeImageLabelText": "CHANGE IMAGE",
+    "friendsLabelText": "Friends",
+    "emailAddressLabelText": "Email address",
+    "ngunaseelanGmailCoLabelText": "ngunaseelan@gmail.com",
+    "friendsLabelTwoText": "250 friends",
+    "viewLabelText": "VIEW",
+    "passwordLabelText": "Password",
+    "labelText": "••••••••••••••",
+    "usernameLabelText": "Username",
+    "ngunaseelanLabelText": "ngunaseelan",
+    "groupsLabelText": "Groups",
+    "groupsLabelTwoText": "5 Groups",
+    "viewLabelTwoText": "VIEW",
+    "logoutLabelText": "Logout",
+    "usersLabelText": "54 Users",
+    "usersLabelTwoText": "22 Users",
+    "viewMoreStatsLabelText": "View more stats"
+  }
+}
